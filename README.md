@@ -1,4 +1,4 @@
-# Diana's Biography
+# Fenny Gitahi's Bio Data
 
 #### This project is about the biography of Fenny Gitahi, Version Date: 9th Sept 2022
 
@@ -6,7 +6,9 @@
 
 ## Description
 
-This is a project about the biography of Diana, the purpose and usage of the project is state more information on Diana's hobbies, interests and skills. This project is my first assignment for week one and I will explain the list of projects that I have been creating using visual studio code, git bash and the uploading on Github.
+This is a project about the bio data of Fenny Gitahi, the main purpose of the project is to highlight Fenny's bio data including where she was born & a brief description of her current school projects and hobbies. 
+
+This is my 1st class project and will illustrate my understanding of Visual code, Git Hub and Git bash
 
 ## Setup/Installation Requirements
 
@@ -18,11 +20,11 @@ This is a project about the biography of Diana, the purpose and usage of the pro
 
 ## Known Bugs
 
-There are no known bugs on this project.
+There are none known at the time. 
 
 ## Technologies Used
 
-Languages used include HTML and CSS. I have used editor Visual Studio Code for creating the app and Git Bash terminal for coding.
+The technology & language used include and are not limited to HTML and CSS. Prettier editor has been used to align the data on VS code
 
 ## Support and contact details
 
@@ -32,4 +34,4 @@ If you need any assistance on any issues or have questions, ideas or concerns. K
 
 _The License used is GPL_
 
-Copyright (c) 2022 **Diana Opiyo**
+Copyright (c) 2022 **Fenny Gitahi**
