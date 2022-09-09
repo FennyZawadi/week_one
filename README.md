@@ -28,7 +28,7 @@ The technology & language used include and are not limited to HTML and CSS. Pret
 
 ## Support and contact details
 
-If you need any assistance on any issues or have questions, ideas or concerns. Kindly contact me through email: dopiyo@gmail.com to make a contribution to the code or for any assistance on the app/project.
+In case of any assistance needed kindly contact me via email gitahifenny@gmail.com and +254721833432 on mobile.
 
 ### License
 
