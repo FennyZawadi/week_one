@@ -23,7 +23,7 @@ Git Hub
 - run with live serve
 
 ## Live Link
-https://github.com/FennyZawadi/week_one.git
+https://fennyzawadi.github.io/week_one/
 
 
 
